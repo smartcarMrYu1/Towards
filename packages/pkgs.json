@@ -1,0 +1,7 @@
+[
+ {
+  "path": "/packages/peripherals/sensors/bh1750", 
+  "ver": "latest", 
+  "name": "BH1750"
+ }
+]
